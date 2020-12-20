@@ -4,29 +4,15 @@
 <p align="justify"> Objetivo do plano de estudos: Primeiros passos com PostgreSQL para comparação com SQL SERVER.
 </p>
 
-## Utilizando o componente Flexbox.
+## Realizando criação e consultas.
 
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/38266349/102158537-6e1b5680-3e60-11eb-801f-4dd3eac765b8.JPG" width="750" alt="accessibility text">
-</p>
-
-```sh
-Dark Mode
-```
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/38266349/102158506-5f34a400-3e60-11eb-84bf-4e5628cfd1dc.JPG" width="750" alt="accessibility text">
-  <img src="https://user-images.githubusercontent.com/38266349/102158554-7a071880-3e60-11eb-81e0-e249fa1018be.JPG" width="750" alt="accessibility text">
-</p>
-
-```sh
-Mobile
-```
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/38266349/102158589-8db27f00-3e60-11eb-9c7e-d27a2ab36020.JPG" width="300" alt="accessibility text">
-  <img src="https://user-images.githubusercontent.com/38266349/102158616-94d98d00-3e60-11eb-8ab1-7dd19a33b222.JPG" width="300" alt="accessibility text">
+  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/Tables.JPG" width="750" alt="accessibility text">
+  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/CREATE.JPG" width="750" alt="accessibility text">
+  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/INSERT.JPG" width="750" alt="accessibility text">
+  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/CREATECASCADE.JPG" width="750" alt="accessibility text">
+  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/LIMIT.JPG" width="750" alt="accessibility text">
 </p>
 
 ## Sobre
