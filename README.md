@@ -8,11 +8,11 @@
 
 
 <p align="left">
-  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/Tables.JPG" width="750" alt="accessibility text">
-  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/CREATE.JPG" width="750" alt="accessibility text">
-  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/INSERT.JPG" width="750" alt="accessibility text">
-  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/CREATECASCADE.JPG" width="750" alt="accessibility text">
-  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/LIMIT.JPG" width="750" alt="accessibility text">
+  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/Tables.JPG" width="350" alt="accessibility text">
+  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/CREATE.JPG" width="650" alt="accessibility text">
+  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/INSERT.JPG" width="650" alt="accessibility text">
+  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/CREATECASCADE.JPG" width="650" alt="accessibility text">
+  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/LIMIT.JPG" width="650" alt="accessibility text">
 </p>
 
 ## Sobre
