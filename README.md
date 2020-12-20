@@ -1,7 +1,7 @@
 # PE-PostgreSql_Basic.01
 
 ## Descrição do Projeto
-<p align="justify"> Objetivo do plano de estudos: Primeiros passos com PostgreSQL para comparação com SQL SERVER.
+<p align="justify"> Objetivo do plano de estudos: Primeiros passos com PostgreSQL para comparação com SQL SERVER utilizando DataGrip Jetbrains.
 </p>
 
 ## Realizando criação e consultas.
