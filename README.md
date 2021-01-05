@@ -8,11 +8,10 @@
 
 
 <p align="left">
-  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/Tables.JPG" width="350" alt="accessibility text">
-  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/CREATE.JPG" width="650" alt="accessibility text">
-  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/INSERT.JPG" width="650" alt="accessibility text">
-  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/CREATECASCADE.JPG" width="650" alt="accessibility text">
-  <img src="https://github.com/barbosahub/PE-PostgreSql_Basic.01/blob/main/Images/LIMIT.JPG" width="650" alt="accessibility text">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-PostgreSql_Basic.01/CREATE.JPG" width="650" alt="Create com PostGresql">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-PostgreSql_Basic.01/INSERT.JPG" width="650" alt="Insert com PostGresql">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-PostgreSql_Basic.01/CREATECASCADE.JPG" width="650" alt="Create Cascade com PostGresql">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-PostgreSql_Basic.01/LIMIT.JPG" width="650" alt="Select utilizando limite de busca com PostGresql">
 </p>
 
 ## Sobre
